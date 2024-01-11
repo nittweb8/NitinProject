@@ -27,7 +27,7 @@ public class Addition {
 			int result = naa1.multiPlyy(a, b);
 
 			System.out.println("The Multiply of " + a + " and " + b + " is: " + result);
-
+			System.out.println("Programe Done");
 		}
 	}
 
